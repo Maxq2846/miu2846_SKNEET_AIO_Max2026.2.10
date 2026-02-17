@@ -1,0 +1,11 @@
+{
+  "project_name": "SKNEET-LLM-Core",
+  "version": "1.0.1-beta",
+  "model_type": "transformer-based-LLM",
+  "data_structure": {
+    "total_size_gb": 20.476,
+    "shard_count": 11,
+    "format": "sharded-7z-binary-blobs"
+  },
+  "research_objective": "Testing long-term memory retention in neural networks"
+}
